@@ -16,5 +16,9 @@ class ViewController: UIViewController {
     }
 
 
+    
+    func test(){
+        NSLog("test1234")
+    }
 }
 
